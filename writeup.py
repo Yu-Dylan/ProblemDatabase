@@ -66,7 +66,7 @@ def write(problem):
         writeup.write("\\usepackage{tssal}\n")
         writeup.write("\n")
         writeup.write("\\title{" + title + "}\n")
-        writeup.write("\\author{Tristan Shin}\n")
+        writeup.write("\\author{Dylan Yu}\n")
         writeup.write("\\date{" + today() + "}\n")
         writeup.write("\n")
         writeup.write("\\begin{document}\n")
